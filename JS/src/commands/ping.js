@@ -1,5 +1,3 @@
-
-
 module.exports={
     name:"ping",
     execute:(message,arguments,client)=>{
